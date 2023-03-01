@@ -1,0 +1,55 @@
+.letter {
+  font-size: 2em;
+  font-family: 'Pacifico', cursive;
+  color: white;
+  text-shadow: 2px 2px #FF69B4;
+  margin-top: 30px;
+}
+
+.hearts {
+  font-size: 1em;
+  color: white;
+  text-shadow: 1px 1px #FF69B4;
+}
+
+.heart-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.heart-container div {
+  margin: 0 10px;
+}
+
+.heart-1 {
+  font-size: 3em;
+  color: #FF69B4;
+}
+
+.heart-2 {
+  font-size: 2em;
+  color: #FF69B4;
+  margin-left: -20px;
+}
+
+.heart-3 {
+  font-size: 1em;
+  color: #FF69B4;
+  margin-left: -20px;
+}
+
+.heart-4 {
+  font-size: 1em;
+  color: #FF69B4;
+  margin-left: -15px;
+}
+
+.quote {
+  font-family: Arial, sans-serif;
+  font-size: 1.2em;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  text-shadow: 2px 2px #FF69B4;
+}
